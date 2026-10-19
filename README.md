@@ -11,7 +11,7 @@ Technical trainer and instructional designer with a cybersecurity background. I 
 - Articulate Rise 360, Storyline 360, Adobe Captivate (certified), Camtasia
 
 ## What I'm working on
-- 📊 Splunk Core Certified User (studying now)
+- 📊 Splunk Core Certified User (studying now): see my [Splunk labs](https://github.com/drodriguez09/splunk-labs)
 - 🔍 LetsDefend SOC Analyst learning path
 - 🎓 A security awareness training module (portfolio piece in progress)
 
