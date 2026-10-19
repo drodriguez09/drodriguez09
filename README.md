@@ -1,5 +1,5 @@
 # Hi I'm David 👋
-Technical trainer and instructional designer moving into security awareness and SOC analyst work. Based in the Baltimore–DC area.
+Technical trainer and instructional designer with a cybersecurity background. I build training that helps people understand technical and security topics, and I sharpen my hands-on security skills through SOC analyst labs. Based in the Baltimore–DC area.
 
 ## Certifications & education
 - 🛡️ **CompTIA Security+**
